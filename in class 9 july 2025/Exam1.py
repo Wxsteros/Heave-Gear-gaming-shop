@@ -1,0 +1,5 @@
+print("Converter Program")
+x=int(input("Input number of day -->"))
+print(x,"Day-->hour",x*24,"hour")
+print(x,"Day-->minutes",x*24*60,"minutes")
+print(x,"Day-->seconds",x*24*60*60,"seconds") 

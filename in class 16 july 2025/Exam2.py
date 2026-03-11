@@ -1,0 +1,9 @@
+x=int(input("กรอกจำนวนครั้งรับค่า :"))
+num=0
+i=1 
+total=0 # ตัวแปรที่เก็บผลรวม
+while (i <=x ) :
+    num=int(input("plase input your number : "))
+    total += num
+    i += 1
+print("total = ",total)          
